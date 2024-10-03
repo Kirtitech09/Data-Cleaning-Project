@@ -11,8 +11,8 @@ formatting, malformed records, or nonsensical outliers.
 Leverage Python’s pandas and NumPy libraries to clean data.
 
 Complete the following tasks:
- Dropping unnecessary columns in a DataFrame
- Changing the index of a DataFrame
- Using .str() methods to clean columns
- Renaming columns to a more recognizable set of labels
- Skipping unnecessary rows in a CSV file
+- Dropping unnecessary columns in a DataFrame
+- Changing the index of a DataFrame
+-  Using .str() methods to clean columns
+-  Renaming columns to a more recognizable set of labels
+-  Skipping unnecessary rows in a CSV file
